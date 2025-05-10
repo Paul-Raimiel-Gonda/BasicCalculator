@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rd1.gif" width="1920" height="500" alt="LogoInsert">
+  <img src="assets/rd1.gif" width="1920" height="450" alt="LogoInsert">
 </p>
 
 # 📐 BASIC CALCULATOR
