@@ -1,0 +1,17 @@
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.Form1.resources
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.csproj.GenerateResource.cache
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.AssemblyInfoInputs.cache
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.AssemblyInfo.cs
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.csproj.CoreCompileInputs.cache
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\TestGUI.exe
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\TestGUI.deps.json
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\TestGUI.runtimeconfig.json
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\TestGUI.dll
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\TestGUI.pdb
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.dll
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\refint\TestGUI.dll
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.pdb
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.genruntimeconfig.cache
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\ref\TestGUI.dll
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.Properties.Resources.resources

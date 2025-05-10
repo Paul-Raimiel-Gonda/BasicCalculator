@@ -1,0 +1,17 @@
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\CalculatorAppLab4.exe
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\CalculatorAppLab4.deps.json
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\CalculatorAppLab4.runtimeconfig.json
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\CalculatorAppLab4.dll
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\bin\Debug\net8.0-windows\CalculatorAppLab4.pdb
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\TestGUI.Form1.resources
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.Properties.Resources.resources
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.csproj.GenerateResource.cache
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.AssemblyInfoInputs.cache
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.AssemblyInfo.cs
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.csproj.CoreCompileInputs.cache
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.dll
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\refint\CalculatorAppLab4.dll
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.pdb
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\CalculatorAppLab4.genruntimeconfig.cache
+C:\Users\Raim\Desktop\programmingactivities\7 ADVANCED OOP\TestGUI\TestGUI\obj\Debug\net8.0-windows\ref\CalculatorAppLab4.dll
