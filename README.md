@@ -10,6 +10,8 @@ Lab 4 - CS 222: Advanced Object-Oriented Programming
 
 The Basic Calculator is a windows form-based application that provides essential arithmetic operations with an intuitive input interface. It supports clearing entries, decimal calculations, and displays results in real time.
 
+
+
 ✨ Features:
 
 🆑 C (Clear): Clears the last entered number or operation.
@@ -28,30 +30,35 @@ The Basic Calculator is a windows form-based application that provides essential
 
 📟 Display: Shows the current input, operations, and results.
 
+
+
 ▶️ Instructions on Running the App
 
-Open the project in Visual Studio or your preferred C# IDE.
 
-Press F5 or run the application.
+1. Open the project in Visual Studio or your preferred C# IDE.
 
-Use the menu and click on the keys to:
+2. Press F5 or run the application.
 
-Enter digits (0–9)
+3. Use the menu and click on the keys to:
 
-Press . for decimal point
+      Enter digits (0–9)
 
-Use +, -, *, / for operations
+      Press . for decimal point
+  
+      Use +, -, *, / for operations
 
-Press CE to clear all
+      Press CE to clear all
 
-Press C to clear the last entry
+      Press C to clear the last entry
 
-Press = to calculate and display the result
+      Press = to calculate and display the result
 
-Choose Exit to close the calculator
+      Choose Exit to close the calculator
+
 
 
 👨‍💻 Team Members
+
 
 Balmes, Genrique Sean Arkin D.
 
@@ -61,12 +68,15 @@ Rivera, Irish D.
 
 Sta. Teresa, David Kalel D.
 
+
+
 🧪 Sample Output
+
 <p align = "center">
   <img src = "assets/cd.gif" width = "1920" height = "500" alt="LogoInsert"> 
 </p>
 
----
+
 
 ## 🙏 Acknowledgement
 Special thanks to our CS 222 instructor, Ms. Fatima Marie P. Agdon, for guiding us in our AOOP Course.
